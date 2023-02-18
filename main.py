@@ -1,0 +1,6 @@
+name = input ("Введите свое имя:")
+age = input ("Введите свой возраст:")
+school = input ("в какой школе ты учишься:")
+print("Твое имя," , name,)
+print("тебе," , age,)
+print("учишься," , school ,)
